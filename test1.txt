@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 こんにちは123456 shimizu
 
+=======
+
+こんにちは123456 branthiteste
+
+
+>>>>>>> e5f960d738ac18efc8803b8c2994191f39bfccd7
